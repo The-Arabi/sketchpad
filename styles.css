@@ -15,7 +15,6 @@
     display: grid;
     background-color: rgb(202, 202, 202);
     width: 50vh;
-    grid-gap: 5px;
     padding: 10px;
     height: 50vh;
 }
